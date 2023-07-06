@@ -1,7 +1,7 @@
 # Description
 
-A description of the project
+Construct a tree of ATL-Sphere bacteria from genome sequences then calculate the phylogenetic diversity of specific communities.
 
 # Progress
 
-Notes on project progress
+Complete.
